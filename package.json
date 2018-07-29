@@ -11,6 +11,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
+    "jest": "./node_modules/.bin/jest",
     "eject": "react-scripts eject"
   }
 }
