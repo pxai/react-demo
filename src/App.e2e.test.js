@@ -1,12 +1,12 @@
-const faker = require('faker');
+//const faker = require('faker');
 const puppeteer = require('puppeteer');
 
-const person = {
+/*const person = {
   name: faker.name.firstName() + ' ' + faker.name.lastName(),
   email: faker.internet.email(),
   phone: faker.phone.phoneNumber(),
   message: faker.random.words()
-};
+};*/
 
 describe('H1 Text', () => {
   test('h1 loads correctly', async () => {
